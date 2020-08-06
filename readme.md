@@ -1,3 +1,5 @@
+# langconv包 用于转化中文繁体
+
 # My NScripter Tools
 
 一些大概没有用了的与 NScript 有关的东西。
